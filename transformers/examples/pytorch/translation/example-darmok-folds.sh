@@ -2,8 +2,8 @@
 
 
 export FOLDNUM=$1
-export INDIR=/home/peter/github/darmok/data/july14/fold${FOLDNUM}/
-export OUTDIR=/home/peter/github/darmok/models/out-base-fold${FOLDNUM}
+export INDIR=/home/pajansen/github/darmok/data/july14/fold${FOLDNUM}/
+export OUTDIR=/home/pajansen/github/darmok/models/out-base-fold${FOLDNUM}
 
 echo "FoldNum: $FOLDNUM"; 
 

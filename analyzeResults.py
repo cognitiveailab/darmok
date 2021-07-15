@@ -41,7 +41,8 @@ def exportJSONL(filenameOut:str, arrayOut):
 #   Main
 #
 
-pathInput = "/home/peter/github/darmok/models/out-base-"
+#pathInput = "/home/peter/github/darmok/models/out-base-"
+pathInput = "/home/pajansen/github/darmok/models/out-large-"
 resultsFilename = "generated_eval.jsonl"             # Dev
 #resultsFilename = "generated_predictions.jsonl"      # Test
 
