@@ -36,6 +36,20 @@ def exportJSONL(filenameOut:str, arrayOut):
     print ("Wrote " + str(len(arrayOut)) + " lines.")
         
 
+def exportTSV(filenameOut:str, arrayOut):
+    print("Writing " + filenameOut)
+    with open(filenameOut, 'w') as f:
+        for line in arrayOut:
+            lineStr = ""
+            lineStr += line['source'] + "\t"
+            lineStr += line['target'] + "\t"
+            lineStr += line['predict'] + "\t"
+            lineStr += line['score'] + "\t"
+            lineStr += line['correct'] + "\t"
+            f.write(lineStr + "\n")
+
+    print ("Wrote " + str(len(arrayOut)) + " lines.")
+
 
 #
 #   Main
@@ -85,7 +99,7 @@ avgCorrect = numCorrect / totalSamples
 # Output combined JSONL file
 filenameOutCombined = pathInput + "-combined-" + resultsFilename
 exportJSONL(filenameOutCombined, combined)
-
+exportTSV(filenameOutCombined + ".tsv", combined)
 
 # Performance summary
 print("-----------------------")
