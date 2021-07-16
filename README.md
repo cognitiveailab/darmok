@@ -3,6 +3,8 @@ Darmok and Jalad at Tanagra: A Dataset and Model for English-Tamarian Translatio
 
 This is the repository for a short, for-fun project in translating the often-discussed metaphorical language of the Children of Tama (Tamarians) from Star Trek: The Next Generation into English. 
 
+The summary paper for this project is available here: [Darmok and Jalad at Tanagra: A Dataset and Model for English-to-Tamarian Translation](http://cognitiveai.org/dist/Darmok_and_Jalad_at_Tanagra_English_Tamarian_Translation_arxiv.pdf).
+
 Data (Tamarian-English Dictionary)
 ========
 A direct link to the Tamarian-English dictionary can be found [here](dictionary/Tamarian%20Dictionary.tsv).
