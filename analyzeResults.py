@@ -44,8 +44,8 @@ def exportTSV(filenameOut:str, arrayOut):
             lineStr += line['source'] + "\t"
             lineStr += line['target'] + "\t"
             lineStr += line['predict'] + "\t"
-            lineStr += line['score'] + "\t"
-            lineStr += line['correct'] + "\t"
+            lineStr += str(line['score']) + "\t"
+            lineStr += str(line['correct']) + "\t"
             f.write(lineStr + "\n")
 
     print ("Wrote " + str(len(arrayOut)) + " lines.")
@@ -55,10 +55,10 @@ def exportTSV(filenameOut:str, arrayOut):
 #   Main
 #
 
-#pathInput = "/home/peter/github/darmok/models/out-base-"
-pathInput = "/home/pajansen/github/darmok/models/out-large-"
-resultsFilename = "generated_eval.jsonl"             # Dev
-#resultsFilename = "generated_predictions.jsonl"      # Test
+pathInput = "/home/pajansen/github/darmok/models/out-base-1gpu-50-"
+#pathInput = "/home/pajansen/github/darmok/models/out-large-"
+#resultsFilename = "generated_eval.jsonl"             # Dev
+resultsFilename = "generated_predictions.jsonl"      # Test
 
 numFolds = 10
 
