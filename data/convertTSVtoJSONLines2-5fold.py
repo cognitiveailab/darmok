@@ -4,7 +4,7 @@ import random
 import copy
 from collections import deque
 import os
-
+import math
 
 # 
 #   File I/O
@@ -51,10 +51,10 @@ def writeLines(filenameOut:str, linesOut):
 
 
 # Make crossvalidation folds (8/1/1)
-def mkCrossvalidationFolds(dataIn, foldIdx):
-    sizeTrain = 8
-    sizeDev = 1
-    sizeTest = 1
+def mkCrossvalidationFolds(dataIn, numFolds, foldIdx):    
+    propTrain = (1/numFolds) * 3
+    propDev = (1/numFolds) * 1
+    propTest = (1/numFolds) * 1
 
     trainOut = []
     devOut = []
@@ -64,19 +64,30 @@ def mkCrossvalidationFolds(dataIn, foldIdx):
     print("FoldIdx: " + str(foldIdx))
     dataInShifted = []
     for record in dataIn:
+        totalExamples = len(record['examples'])
+        numToShift = math.floor((1/numFolds) * totalExamples)
+        #print("totalExamples: " + str(totalExamples) + "  numToShift: " + str(numToShift) )
         recordCopy = copy.deepcopy(record)
 
         shifted = deque(recordCopy['examples'])
-        shifted.rotate(foldIdx)
+        shifted.rotate(numToShift * foldIdx)
         recordCopy['examples'] = list(shifted)
 
-        print("Length: " + str(len(recordCopy['examples'])))
+        #print("Length: " + str(len(recordCopy['examples'])))
 
         dataInShifted.append(recordCopy)
 
 
     for record in dataInShifted:
         totalExamples = len(record['examples'])
+        sizeTrain = math.floor(totalExamples * propTrain)
+        sizeDev = math.floor(totalExamples * propDev)
+        sizeTest = math.floor(totalExamples * propTest)
+
+        #print("totalExamples: " + str(totalExamples))
+        #print("sizeTrain: " + str(sizeTrain))
+        #print("sizeDev: " + str(sizeDev))
+        #print("sizeTest: " + str(sizeTest))
 
         recDev = copy.deepcopy(record)
         #recDev['examples'] = recDev['examples'][sizeTrain:sizeTrain+sizeDev]
@@ -90,7 +101,7 @@ def mkCrossvalidationFolds(dataIn, foldIdx):
 
         # Train
         recTrain = copy.deepcopy(record)
-        recTrain['examples'] = recTrain['examples'][sizeDev+sizeTest:]      # Everything left, after train/dev
+        recTrain['examples'] = recTrain['examples'][sizeDev+sizeTest:sizeDev+sizeTest+sizeTrain]      # Everything left, after train/dev
         trainOut.append(recTrain)
 
     # Return
@@ -112,7 +123,7 @@ def exportToJsonLines(filenameOut:str, dataOut):
 
 
     # Shuffle before returning
-    random.shuffle(outLines)
+    #random.shuffle(outLines)
 
     # Write to file
     writeLines(filenameOut, outLines)
@@ -128,8 +139,8 @@ def exportToJsonLines(filenameOut:str, dataOut):
 #   Main Program
 #
 
-path = "july15-50/"
-filenameInputTSV = "july15-50/TamarianLanguage50.tsv"
+path = "july16-50/"
+filenameInputTSV = "july16-50/TamarianLanguage50.tsv"
 
 data = loadSpreadsheetTSV(filenameInputTSV)
 
@@ -140,7 +151,8 @@ for record in data:
 print("Generating crossvalidation folds...")
 print("")
 
-for foldIdx in range(0, 10):
+numFolds = 5
+for foldIdx in range(0, numFolds):
     print ("Generating folds with index: " + str(foldIdx))
     foldPath = path + "/fold" + str(foldIdx) + "/"
     try: 
@@ -148,7 +160,7 @@ for foldIdx in range(0, 10):
     except: 
         pass
 
-    foldTrain, foldDev, foldTest = mkCrossvalidationFolds(data, foldIdx)
+    foldTrain, foldDev, foldTest = mkCrossvalidationFolds(data, numFolds, foldIdx)
 
     lines = exportToJsonLines(foldPath + "train.json", foldTrain)
     lines = exportToJsonLines(foldPath + "dev.json", foldDev)
