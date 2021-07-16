@@ -123,7 +123,7 @@ def exportToJsonLines(filenameOut:str, dataOut):
 
 
     # Shuffle before returning
-    #random.shuffle(outLines)
+    random.shuffle(outLines)
 
     # Write to file
     writeLines(filenameOut, outLines)
