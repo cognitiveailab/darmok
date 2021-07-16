@@ -23,6 +23,9 @@ Pre-trained Models
 ========
 Pre-trained models are available at: ...
 
+Code
+========
+The T5 model was trained using the Huggingface Transformers library.  This repository has a fork of that library, and made use of a slightly modified translation example (node that the output of this example currently only handles a single GPU and batch size of 1 -- other configurations are not guaranteed to align source and predicted sentences with their scores in the output files correctly).  The example can be found [here](transformers/examples/pytorch/translation/).
 
 ## References
 
