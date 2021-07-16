@@ -55,12 +55,12 @@ def exportTSV(filenameOut:str, arrayOut):
 #   Main
 #
 
-pathInput = "/home/pajansen/github/darmok/models/out-base-1gpu-50-"
-#pathInput = "/home/pajansen/github/darmok/models/out-large-"
-#resultsFilename = "generated_eval.jsonl"             # Dev
-resultsFilename = "generated_predictions.jsonl"      # Test
+#pathInput = "/home/pajansen/github/darmok/models/out-base-1gpu-50-"
+pathInput = "/home/pajansen/github/darmok/models/out-large-1gpu-50-"
+resultsFilename = "generated_eval.jsonl"             # Dev
+#resultsFilename = "generated_predictions.jsonl"      # Test
 
-numFolds = 10
+numFolds = 5
 
 # Load all generated samples into one combined array
 combined = []

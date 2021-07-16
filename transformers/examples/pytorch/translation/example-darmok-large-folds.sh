@@ -2,11 +2,11 @@
 
 
 export FOLDNUM=$1
-export INDIR=/home/pajansen/github/darmok/data/july14/fold${FOLDNUM}/
-export OUTDIR=/home/pajansen/github/darmok/models/out-large-1gpu-fold${FOLDNUM}
+export INDIR=/home/pajansen/github/darmok/data/july15-50/fold${FOLDNUM}/
+export OUTDIR=/home/pajansen/github/darmok/models/out-large-1gpu-50-fold${FOLDNUM}
 
 echo "FoldNum: $FOLDNUM"; 
-export CUDA_VISIBLE_DEVICES=0
+export CUDA_VISIBLE_DEVICES=2
 
 python3 run_translation.py \
     --model_name_or_path t5-large \

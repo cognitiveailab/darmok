@@ -2,12 +2,17 @@
 
 
 export FOLDNUM=$1
-export INDIR=/home/pajansen/github/darmok/data/july14/fold${FOLDNUM}/
-export OUTDIR=/home/pajansen/github/darmok/models/out-3b-fold${FOLDNUM}
+export INDIR=/home/pajansen/github/darmok/data/july15-50/fold${FOLDNUM}/
+export OUTDIR=/home/pajansen/github/darmok/models/out-3b-1gpu-50-fold${FOLDNUM}
 
-echo "FoldNum: $FOLDNUM"; 
+echo "FoldNum: $FOLDNUM";
+# Deepspeed seems to ignore this anyway
+export CUDA_VISIBLE_DEVICES=0
 
-python3 run_translation.py \
+#python3 run_translation.py \
+#python3 -m torch.distributed.launch --nproc_per_node 2 run_translation.py \
+
+deepspeed --num_gpus=1 run_translation.py \
     --model_name_or_path t5-3b \
     --do_train \
     --do_eval \
@@ -29,7 +34,8 @@ python3 run_translation.py \
     --validation_file=${INDIR}dev.json \
     --test_file=${INDIR}test.json \
     --predict_with_generate \
-    --num_beams=4
+    --num_beams=4 \
+    --deepspeed ../../../tests/deepspeed/ds_config_zero2.json
 
 #    --deepspeed ../../../tests/deepspeed/ds_config_zero2.json \
 #    --fp16 
