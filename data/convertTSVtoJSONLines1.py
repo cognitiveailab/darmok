@@ -74,7 +74,7 @@ def mkCrossvalidationFolds(dataIn, foldIdx):
 
 
     for record in dataInShifted:
-        totalExamples = len(recTrain['examples'])
+        totalExamples = len(record['examples'])
 
         recDev = copy.deepcopy(record)
         #recDev['examples'] = recDev['examples'][sizeTrain:sizeTrain+sizeDev]
@@ -126,8 +126,8 @@ def exportToJsonLines(filenameOut:str, dataOut):
 #   Main Program
 #
 
-path = "july15/"
-filenameInputTSV = "july15/Tamarian Language - Sheet5.tsv"
+path = "july15-50/"
+filenameInputTSV = "july15-50/TamarianLanguage50.tsv"
 
 data = loadSpreadsheetTSV(filenameInputTSV)
 
