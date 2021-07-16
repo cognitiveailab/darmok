@@ -23,6 +23,7 @@ def loadSpreadsheetTSV(filename:str):
             meaning = fields[2].strip()
             done = fields[3].strip()        # Discard
             examples = [x.strip() for x in fields[4:14]]
+            examples = [x for x in examples if len(x) > 0]
 
             record = {}
             record['utterance'] = utterance        

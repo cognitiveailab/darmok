@@ -1,400 +1,359 @@
-{ "translation": { "en": "Excruciating pain and soreness was experienced by the person.", "tam": "Zinda! His face black. His eyes red." } }
-{ "translation": { "en": "After being told, she suddenly realized what she'd misunderstood.", "tam": "Sokath. His eyes uncovered." } }
-{ "translation": { "en": "The light allowed them to observe it.", "tam": "Pirakee, with clouds parted." } }
-{ "translation": { "en": "He had sustained trauma.", "tam": "Zinda! His face black. His eyes red." } }
-{ "translation": { "en": "He repeatedly made attempts to complete the task.", "tam": "Zima at Anzo. Zima and Bakor." } }
-{ "translation": { "en": "A child started pedalling her bike.", "tam": "Glenarat of Miwandi." } }
-{ "translation": { "en": "Things had not improved.", "tam": "Ratham, the ocean still" } }
-{ "translation": { "en": "Her task was challenging.", "tam": "The beast at Tanagra." } }
-{ "translation": { "en": "Did they want food?", "tam": "Solotep at midday" } }
-{ "translation": { "en": "He couldn't appreciate what they were trying to say.", "tam": "Kadir beneath Mo Moteh." } }
-{ "translation": { "en": "Instruction hadn't been given.", "tam": "Fendit in silence." } }
-{ "translation": { "en": "Good day.", "tam": "Zima, at Anzo." } }
-{ "translation": { "en": "She offered their hospitality.", "tam": "Chatha and Terubim, the fire warm." } }
-{ "translation": { "en": "They stood in the open to attract their foe.", "tam": "Uzani. His army at Lashmir. With fist open." } }
-{ "translation": { "en": "They rushed him.", "tam": "Uzani. His army. With fist closed." } }
-{ "translation": { "en": "The child didn't want to go to listen to their lessons anymore.", "tam": "Kiteo. His eyes closed." } }
-{ "translation": { "en": "She enticed them out of hiding.", "tam": "Uzani. His army at Lashmir. With fist open." } }
-{ "translation": { "en": "They didn't know what their next move would be.", "tam": "Shaieen, in darkness." } }
-{ "translation": { "en": "The results were beyond reproach.", "tam": "Chenza at court. The court of silence." } }
-{ "translation": { "en": "She helped him with the project.", "tam": "Darmok and Jilad at Tanagra." } }
-{ "translation": { "en": "She thought they might be in jeopardy.", "tam": "Cthulia, the flames burning." } }
-{ "translation": { "en": "She feared they might get hurt.", "tam": "Cthulia, the flames burning." } }
-{ "translation": { "en": "It was an abrupt discovery.", "tam": "Pirakee, the sun blinding." } }
-{ "translation": { "en": "She spied on their dialoge.", "tam": "Teema, at Gayara." } }
-{ "translation": { "en": "The pipe burst, causing a flood.", "tam": "Shaka. When the walls fell." } }
-{ "translation": { "en": "The company began being more cooperative.", "tam": "Kailash. The door opening." } }
-{ "translation": { "en": "They checked if he was hungry.", "tam": "Solotep at midday" } }
-{ "translation": { "en": "They repeatedly petitioned for it.", "tam": "Lianna, her arms outstretched." } }
-{ "translation": { "en": "Hi.", "tam": "Zima, at Anzo." } }
-{ "translation": { "en": "Though their relationship was strained, they still had to do the task.", "tam": "Lemross, his buren heavy." } }
-{ "translation": { "en": "The plane wouldn't take off.", "tam": "Glenarat, his hands empty." } }
-{ "translation": { "en": "He hadn't wanted to be taught.", "tam": "Kiteo. His eyes closed." } }
-{ "translation": { "en": "The company was giving out free samples to anyone who asked.", "tam": "Temba. His arms wide." } }
-{ "translation": { "en": "They were beginning to recuperate.", "tam": "Callimas at Bahar." } }
-{ "translation": { "en": "She said she was not interested in the offer of tea.", "tam": "Temba at rest." } }
-{ "translation": { "en": "The child impored their parent.", "tam": "Lianna, her arms outstretched." } }
-{ "translation": { "en": "No treatment was available for her illness.", "tam": "Kiazi's children, their faces wet." } }
-{ "translation": { "en": "They were in physical discomfort.", "tam": "Zinda! His face black. His eyes red." } }
-{ "translation": { "en": "", "tam": "Glenarat, his hands empty." } }
-{ "translation": { "en": "The manufacturing line was interrupted.", "tam": "The River Temarc. In winter." } }
-{ "translation": { "en": "He wasn't sure where to find it.", "tam": "Sokath. In Darkness." } }
-{ "translation": { "en": "They made their strategy.", "tam": "Shaieen, the wind rising." } }
-{ "translation": { "en": "", "tam": "Sokath. In Darkness." } }
-{ "translation": { "en": "It was grovelled for.", "tam": "Lianna, her arms outstretched." } }
-{ "translation": { "en": "They had their evening meal.", "tam": "Solotop at day's end" } }
-{ "translation": { "en": "It was bedtime.", "tam": "Jeral at rest." } }
-{ "translation": { "en": "They were happier.", "tam": "Jeral, her eyes uplifted." } }
-{ "translation": { "en": "The journey was tiring.", "tam": "Chatha, her journey long." } }
-{ "translation": { "en": "Her headache was causing anguish.", "tam": "Zinda! His face black. His eyes red." } }
-{ "translation": { "en": "That made him feel a great affection.", "tam": "Hammat dancing." } }
-{ "translation": { "en": "The opposing army was their foe.", "tam": "The beast at Tanagra." } }
-{ "translation": { "en": "They knew what needed to be done.", "tam": "Shaieen, the wind rising." } }
-{ "translation": { "en": "", "tam": "Kira at court, the court filled." } }
-{ "translation": { "en": "He wanted to fall asleep quickly.", "tam": "Jeral at rest." } }
-{ "translation": { "en": "The project was stationary.", "tam": "Ratham, the ocean still" } }
-{ "translation": { "en": "The audience was ready for the story to start.", "tam": "Kira at court, the court filled." } }
-{ "translation": { "en": "She hadn't looked at the guide yet.", "tam": "Fendit in silence." } }
-{ "translation": { "en": "After changing their methods, they started on a new trajectory.", "tam": "Mirab. His sails unfurled." } }
-{ "translation": { "en": "He had supper.", "tam": "Solotop at day's end" } }
-{ "translation": { "en": "He asked them to explain it.", "tam": "Kira at Bashi." } }
-{ "translation": { "en": "She was completely worn out.", "tam": "Jeral, her arms weary." } }
-{ "translation": { "en": "They didn't use the council he had given.", "tam": "Fendit, refusing the flame." } }
-{ "translation": { "en": "The business completely missed the customer's point.", "tam": "Kadir beneath Mo Moteh." } }
-{ "translation": { "en": "Their schedule was packed with activities.", "tam": "Sallana, her pack full." } }
-{ "translation": { "en": "They didn't want to familiarize themselves with the situation.", "tam": "Kiteo. His eyes closed." } }
-{ "translation": { "en": "He pleaded for it.", "tam": "Lianna, her arms outstretched." } }
-{ "translation": { "en": "A new option was available to them.", "tam": "Klemar. When it rises." } }
-{ "translation": { "en": "The child was concerened about the hazards.", "tam": "Cthulia, the flames burning." } }
-{ "translation": { "en": "She had eventually succumbed to her illness.", "tam": "Shaka. When the walls fell." } }
-{ "translation": { "en": "His duty was clear, regardless of the effort required.", "tam": "Lemross, his buren heavy." } }
-{ "translation": { "en": "It was positive.", "tam": "Hammat dancing." } }
-{ "translation": { "en": "She backed their work.", "tam": "Tama, filled with mercy." } }
-{ "translation": { "en": "The machine malfunctioned, causing quite a bit of damage.", "tam": "Shaka. When the walls fell." } }
-{ "translation": { "en": "She assisted the group.", "tam": "Tama, filled with mercy." } }
-{ "translation": { "en": "The switch was faulty, and did not work.", "tam": "Shaka. When the walls fell." } }
-{ "translation": { "en": "They talked for hours to try and resolve the disagreement.", "tam": "Raj and Jiri at Lungha" } }
-{ "translation": { "en": "", "tam": "Sallana, her pack full." } }
-{ "translation": { "en": "They were becoming quite weary.", "tam": "Jeral, her arms weary." } }
-{ "translation": { "en": "She needed sleep.", "tam": "Jeral at rest." } }
-{ "translation": { "en": "Nothing seemed to help the pain, regardless of how much he tried.", "tam": "Kiazi's children, their faces wet." } }
-{ "translation": { "en": "He walked out the door.", "tam": "Mirab. His sails unfurled." } }
-{ "translation": { "en": "He looked cold, so she offered him a blanket.", "tam": "Temba. His arms wide." } }
-{ "translation": { "en": "She knew nothing she could do would make it better.", "tam": "Kiazi's children, their faces wet." } }
-{ "translation": { "en": "They were exhausted.", "tam": "Jeral, her arms weary." } }
-{ "translation": { "en": "She rode a motor cycle.", "tam": "Glenarat of Miwandi." } }
-{ "translation": { "en": "This was their problem to resolve.", "tam": "The beast at Tanagra." } }
-{ "translation": { "en": "It brightened their day.", "tam": "Jeral, her eyes uplifted." } }
-{ "translation": { "en": "She was spent at the end of the day.", "tam": "Jeral, her arms weary." } }
-{ "translation": { "en": "He asked if they wanted to come in.", "tam": "Chatha and Terubim, the fire warm." } }
-{ "translation": { "en": "They piloted the jet home.", "tam": "Glenarat of Miwandi." } }
-{ "translation": { "en": "He liked it.", "tam": "Hammat dancing." } }
-{ "translation": { "en": "Everything known was indisputable.", "tam": "Chenza at court. The court of silence." } }
-{ "translation": { "en": "They offered him a bandage.", "tam": "Temba. His arms wide." } }
-{ "translation": { "en": "When they tried together, they were able to lift the heavy rock.", "tam": "Darmok and Jilad at Tanagra." } }
-{ "translation": { "en": "He asked if she wanted some of her sandwich.", "tam": "Temba. His arms wide." } }
-{ "translation": { "en": "They wanted to snooze.", "tam": "Jeral at rest." } }
-{ "translation": { "en": "They told their neighbours to feel free to take some firewood.", "tam": "Temba. His arms wide." } }
-{ "translation": { "en": "He appreciated it.", "tam": "Hammat dancing." } }
-{ "translation": { "en": "They suddenly realized what had elluded them.", "tam": "Sokath. His eyes uncovered." } }
-{ "translation": { "en": "It became illuminated.", "tam": "Pirakee, with clouds parted." } }
-{ "translation": { "en": "The computer had halted it's execution.", "tam": "The River Temarc. In winter." } }
-{ "translation": { "en": "She told him about her experiences.", "tam": "Kira at Bashi." } }
-{ "translation": { "en": "The child aided her friend.", "tam": "Tama, filled with mercy." } }
-{ "translation": { "en": "She was making headway on the problem.", "tam": "Ratham, the winds fair" } }
-{ "translation": { "en": "The two groups worked for some time to find a mutually acceptable deal that both sides would benefit from.", "tam": "Raj and Jiri at Lungha" } }
-{ "translation": { "en": "She couldn't comprehend what they were trying to tell her.", "tam": "Kadir beneath Mo Moteh." } }
-{ "translation": { "en": "Her duty as a physician was clear.", "tam": "Lemross, his buren heavy." } }
-{ "translation": { "en": "She pointed to the kettle and asked if anyone wanted some tea.", "tam": "Temba. His arms wide." } }
-{ "translation": { "en": "He didn't want to take the blanket.", "tam": "Temba at rest." } }
-{ "translation": { "en": "The neighbours refused the offer of firewood.", "tam": "Temba at rest." } }
-{ "translation": { "en": "Their easy working relationship made their task work out better than expected.", "tam": "Darmok and Jilad at Tanagra." } }
-{ "translation": { "en": "No matter how hard they tried, he just couldn't seem to get the picture.", "tam": "Kadir beneath Mo Moteh." } }
-{ "translation": { "en": "", "tam": "Solotop at day's end" } }
-{ "translation": { "en": "The child couldn't have predicted this unforseen circumstance.", "tam": "Pirakee, the sun blinding." } }
-{ "translation": { "en": "The child kept trying.", "tam": "Zima at Anzo. Zima and Bakor." } }
-{ "translation": { "en": "Guidance wasn't sought.", "tam": "Fendit in silence." } }
-{ "translation": { "en": "She declined the offer of one of the samples.", "tam": "Temba at rest." } }
-{ "translation": { "en": "The obstruction was removed.", "tam": "Kailash. The door opening." } }
-{ "translation": { "en": "He had been comforted.", "tam": "Jeral, her eyes uplifted." } }
-{ "translation": { "en": "She was extremely occupied with work.", "tam": "Sallana, her pack full." } }
-{ "translation": { "en": "The fatigue was showing.", "tam": "Jeral, her arms weary." } }
-{ "translation": { "en": "He told his friend that he didn't want the book right now.", "tam": "Temba at rest." } }
-{ "translation": { "en": "It wasn't obvious what she should do next.", "tam": "Shaieen, in darkness." } }
-{ "translation": { "en": "The child hadn't inquired.", "tam": "Fendit in silence." } }
-{ "translation": { "en": "", "tam": "Sokath. In Darkness." } }
-{ "translation": { "en": "The ride was draining.", "tam": "Chatha, her journey long." } }
-{ "translation": { "en": "He supported her.", "tam": "Tama, filled with mercy." } }
-{ "translation": { "en": "The situation looked concerning.", "tam": "Cthulia, the flames burning." } }
-{ "translation": { "en": "They announced that the information was correct.", "tam": "Kinla, at court." } }
-{ "translation": { "en": "They compelled him not to do it.", "tam": "Kailash. When it rises." } }
-{ "translation": { "en": "It is a pleasure to meet you.", "tam": "Zima, at Anzo." } }
-{ "translation": { "en": "She kept working hard to study to increase her grades, in spite of slow progress.", "tam": "Zima at Anzo. Zima and Bakor." } }
-{ "translation": { "en": "The two parties had difficulty communicating.", "tam": "Shaka. When the walls fell." } }
-{ "translation": { "en": "Things had paused.", "tam": "Ratham, the ocean still" } }
-{ "translation": { "en": "", "tam": "Solotop at day's end" } }
-{ "translation": { "en": "She wasn't making any headway on the problem.", "tam": "Ratham, the ocean still" } }
-{ "translation": { "en": "He cheered up after their talk.", "tam": "Callimas at Bahar." } }
-{ "translation": { "en": "He intentionally evesdropped on what was said.", "tam": "Teema, at Gayara." } }
-{ "translation": { "en": "The governments had a cooperative agreement and mutually beneficial relationship.", "tam": "Darmok and Jilad at Tanagra." } }
-{ "translation": { "en": "His strategy helped ensnare their prey.", "tam": "Uzani. His army at Lashmir. With fist open." } }
-{ "translation": { "en": "Knowing they would both be needed, they went together.", "tam": "Darmok and Jilad at Tanagra." } }
-{ "translation": { "en": "The child hurt from their fall.", "tam": "Zinda! His face black. His eyes red." } }
-{ "translation": { "en": "They were unsure where to search for the object.", "tam": "Sokath. In Darkness." } }
-{ "translation": { "en": "She didn't anticipate observing it.", "tam": "Pirakee, the sun blinding." } }
-{ "translation": { "en": "He lit the match, but it fizzled out before it could be used.", "tam": "Shaka. When the walls fell." } }
-{ "translation": { "en": "Her excursion had been wearying.", "tam": "Chatha, her journey long." } }
-{ "translation": { "en": "She steered the submarine in the ocean.", "tam": "Glenarat of Miwandi." } }
-{ "translation": { "en": "It was clear what his next action should be.", "tam": "Shaieen, the wind rising." } }
-{ "translation": { "en": "He lifted the veil off it.", "tam": "Pirakee, with clouds parted." } }
-{ "translation": { "en": "", "tam": "Kira at court, the court filled." } }
-{ "translation": { "en": "He was released and allowed to continue.", "tam": "Kailash. The door opening." } }
-{ "translation": { "en": "Doing the job was difficult, but it needed to be done.", "tam": "Lemross, his buren heavy." } }
-{ "translation": { "en": "", "tam": "Klemar. When it rises." } }
-{ "translation": { "en": "The business was now able to explain what happened.", "tam": "Sokath. His eyes uncovered." } }
-{ "translation": { "en": "The business intercepted their conversation.", "tam": "Teema, at Gayara." } }
-{ "translation": { "en": "Coming to a compromise was likely the best course of action.", "tam": "Raj and Jiri at Lungha" } }
-{ "translation": { "en": "They didn't know where to seek it out.", "tam": "Sokath. In Darkness." } }
-{ "translation": { "en": "What she learned was impossible to deny.", "tam": "Chenza at court. The court of silence." } }
-{ "translation": { "en": "They uncovered something unexpected.", "tam": "Pirakee, the sun blinding." } }
-{ "translation": { "en": "What they saw was shocking.", "tam": "Pirakee, the sun blinding." } }
-{ "translation": { "en": "The child created a schedule.", "tam": "Shaieen, the wind rising." } }
-{ "translation": { "en": "", "tam": "Kinla, at court." } }
-{ "translation": { "en": "They waited for the presentation to commence.", "tam": "Kira at court, the court filled." } }
-{ "translation": { "en": "The beast was their enemy.", "tam": "The beast at Tanagra." } }
-{ "translation": { "en": "The bike had a flat tire.", "tam": "Glenarat, his hands empty." } }
-{ "translation": { "en": "Everything was known, and no additional facts could change the situation.", "tam": "Chenza at court. The court of silence." } }
-{ "translation": { "en": "The child didn't follow what their parent said.", "tam": "Fendit, refusing the flame." } }
-{ "translation": { "en": "", "tam": "Shaieen, in darkness." } }
-{ "translation": { "en": "The gardener offered seeds to anyone who wanted them.", "tam": "Temba. His arms wide." } }
-{ "translation": { "en": "With their old plans in ruin, it was time to try their next idea.", "tam": "Mirab. His sails unfurled." } }
-{ "translation": { "en": "The evidence was incontrovertible.", "tam": "Chenza at court. The court of silence." } }
-{ "translation": { "en": "They preferred being uneducated on the topic.", "tam": "Kiteo. His eyes closed." } }
-{ "translation": { "en": "She relentlessly tried to solve the problem, undeterred by failure.", "tam": "Zima at Anzo. Zima and Bakor." } }
-{ "translation": { "en": "Their effort was stuck.", "tam": "Ratham, the ocean still" } }
-{ "translation": { "en": "Their trek had seemed to last forever.", "tam": "Chatha, her journey long." } }
-{ "translation": { "en": "They wouldn't stop requesting it.", "tam": "Lianna, her arms outstretched." } }
-{ "translation": { "en": "It was time to let go, so she disembarked.", "tam": "Mirab. His sails unfurled." } }
-{ "translation": { "en": "The child needed to nap.", "tam": "Jeral at rest." } }
-{ "translation": { "en": "The effort was progressing.", "tam": "Ratham, the winds fair" } }
-{ "translation": { "en": "They dined.", "tam": "Solotop at day's end" } }
-{ "translation": { "en": "", "tam": "Shaieen, in darkness." } }
-{ "translation": { "en": "There was nothing that could be done to help him.", "tam": "Kiazi's children, their faces wet." } }
-{ "translation": { "en": "An invitation was extended to come inside and rest.", "tam": "Chatha and Terubim, the fire warm." } }
-{ "translation": { "en": "His determination was obvious as he kept trying.", "tam": "Zima at Anzo. Zima and Bakor." } }
-{ "translation": { "en": "They struck their adversary.", "tam": "Uzani. His army. With fist closed." } }
-{ "translation": { "en": "It could now be seen.", "tam": "Pirakee, with clouds parted." } }
-{ "translation": { "en": "They left the city.", "tam": "Mirab. His sails unfurled." } }
-{ "translation": { "en": "In spite of being sick, she still had to go in to work or no one would be able to open the store.", "tam": "Lemross, his buren heavy." } }
-{ "translation": { "en": "They provided him with assistance.", "tam": "Tama, filled with mercy." } }
-{ "translation": { "en": "The child hid something so their friend wouldn't find it.", "tam": "Kailash. When it rises." } }
-{ "translation": { "en": "They offered greetings.", "tam": "Zima, at Anzo." } }
-{ "translation": { "en": "It's nice to meet you.", "tam": "Zima, at Anzo." } }
-{ "translation": { "en": "They haggled back and forth for some time on a price.", "tam": "Raj and Jiri at Lungha" } }
-{ "translation": { "en": "Their friend was unhelpful but now was helpful.", "tam": "Kailash. The door opening." } }
-{ "translation": { "en": "One couldn't help wonder if it was unsafe.", "tam": "Cthulia, the flames burning." } }
-{ "translation": { "en": "The work was advancing.", "tam": "Ratham, the winds fair" } }
-{ "translation": { "en": "He wanted to leave, but they held him back.", "tam": "Kailash. When it rises." } }
-{ "translation": { "en": "A difficult excursion.", "tam": "Chatha, her journey long." } }
-{ "translation": { "en": "Did they want a meal.", "tam": "Solotep at midday" } }
-{ "translation": { "en": "He is fully booked.", "tam": "Sallana, her pack full." } }
-{ "translation": { "en": "They ignored the advice they were given.", "tam": "Fendit, refusing the flame." } }
-{ "translation": { "en": "Exhaustion had overcome the child.", "tam": "Jeral, her arms weary." } }
-{ "translation": { "en": "Getting some shuteye was essential.", "tam": "Jeral at rest." } }
-{ "translation": { "en": "", "tam": "Glenarat, his hands empty." } }
-{ "translation": { "en": "The business intentionally refused to examine a possibility.", "tam": "Kiteo. His eyes closed." } }
-{ "translation": { "en": "The plane needed a pilot, and that was her.", "tam": "Glenarat of Miwandi." } }
-{ "translation": { "en": "They engaged the army.", "tam": "Uzani. His army. With fist closed." } }
-{ "translation": { "en": "They didn't seem to be able to fathom it.", "tam": "Kadir beneath Mo Moteh." } }
-{ "translation": { "en": "She strongly appealed for something.", "tam": "Lianna, her arms outstretched." } }
-{ "translation": { "en": "His arm had been broken.", "tam": "Zinda! His face black. His eyes red." } }
-{ "translation": { "en": "She decided she knew better, and discarded the advice that had been given.", "tam": "Fendit, refusing the flame." } }
-{ "translation": { "en": "", "tam": "Kinla, at court." } }
-{ "translation": { "en": "He is tired.", "tam": "Jeral, her arms weary." } }
-{ "translation": { "en": "The talks for creating a climate agreement were ongoing today.", "tam": "Raj and Jiri at Lungha" } }
-{ "translation": { "en": "She charged her quarry.", "tam": "Uzani. His army. With fist closed." } }
-{ "translation": { "en": "They had a fresh opportunity.", "tam": "Klemar. When it rises." } }
-{ "translation": { "en": "", "tam": "Solotop at day's end" } }
-{ "translation": { "en": "She didn't know, but should have.", "tam": "Kiteo. His eyes closed." } }
-{ "translation": { "en": "", "tam": "Kira at court, the court filled." } }
-{ "translation": { "en": "She was relieved.", "tam": "Jeral, her eyes uplifted." } }
-{ "translation": { "en": "She dismissed the information in the guide.", "tam": "Fendit, refusing the flame." } }
-{ "translation": { "en": "They drove the truck across the country.", "tam": "Glenarat of Miwandi." } }
-{ "translation": { "en": "They stopped worrying once the task was completed.", "tam": "Callimas at Bahar." } }
-{ "translation": { "en": "The telephone had a wiretap.", "tam": "Teema, at Gayara." } }
-{ "translation": { "en": "They had a plan of action.", "tam": "Shaieen, the wind rising." } }
-{ "translation": { "en": "The child was ready to hear the story.", "tam": "Kira at court, the court filled." } }
-{ "translation": { "en": "He hopped in the car and started driving.", "tam": "Glenarat of Miwandi." } }
-{ "translation": { "en": "The condition they found themselves in was unambiguous.", "tam": "Chenza at court. The court of silence." } }
-{ "translation": { "en": "Though he lost his job, he still had a family to provide for.", "tam": "Lemross, his buren heavy." } }
-{ "translation": { "en": "They worked to bring the other party into their trap.", "tam": "Uzani. His army at Lashmir. With fist open." } }
-{ "translation": { "en": "She had a great deal of responsibility to make sure it would be finished, no matter how hard it got.", "tam": "Lemross, his buren heavy." } }
-{ "translation": { "en": "", "tam": "Temba at rest." } }
-{ "translation": { "en": "It made them happy.", "tam": "Hammat dancing." } }
-{ "translation": { "en": "They had to recouperate.", "tam": "Jeral at rest." } }
-{ "translation": { "en": "The socket was covered, preventing the plug from going in.", "tam": "Kailash. When it rises." } }
-{ "translation": { "en": "", "tam": "Kinla, at court." } }
-{ "translation": { "en": "Things had taken further steps.", "tam": "Ratham, the winds fair" } }
-{ "translation": { "en": "Salutations.", "tam": "Zima, at Anzo." } }
-{ "translation": { "en": "The business bustled with activity.", "tam": "Sallana, her pack full." } }
-{ "translation": { "en": "Even though it was heavy and progress was slow, he kept pushing the crate towards the top of the hill.", "tam": "Zima at Anzo. Zima and Bakor." } }
-{ "translation": { "en": "There might be terrible peril.", "tam": "Cthulia, the flames burning." } }
-{ "translation": { "en": "His skills were inadequite, causing the task to be incomplete.", "tam": "Shaka. When the walls fell." } }
-{ "translation": { "en": "The mother drove the RV.", "tam": "Glenarat of Miwandi." } }
-{ "translation": { "en": "", "tam": "Sallana, her pack full." } }
-{ "translation": { "en": "An alternative was now accessible.", "tam": "Klemar. When it rises." } }
-{ "translation": { "en": "No querries had been made.", "tam": "Fendit in silence." } }
-{ "translation": { "en": "She asked him to read her the story.", "tam": "Kira at Bashi." } }
-{ "translation": { "en": "She quit her job and started a different job.", "tam": "Mirab. His sails unfurled." } }
-{ "translation": { "en": "", "tam": "Klemar. When it rises." } }
-{ "translation": { "en": "The door was unlocked.", "tam": "Kailash. The door opening." } }
-{ "translation": { "en": "He decided to move on to the next island.", "tam": "Mirab. His sails unfurled." } }
-{ "translation": { "en": "She felt better.", "tam": "Jeral, her eyes uplifted." } }
-{ "translation": { "en": "He checked if it was time to prepare a meal.", "tam": "Solotep at midday" } }
-{ "translation": { "en": "Hey.", "tam": "Zima, at Anzo." } }
-{ "translation": { "en": "The hood was taken off, and the person was now visible.", "tam": "Pirakee, with clouds parted." } }
-{ "translation": { "en": "He didn't take his mentor's guidance.", "tam": "Fendit, refusing the flame." } }
-{ "translation": { "en": "His illness caused quite a bit of pain.", "tam": "Zinda! His face black. His eyes red." } }
-{ "translation": { "en": "Her outing was exhausting.", "tam": "Chatha, her journey long." } }
-{ "translation": { "en": "Their mood was lightened.", "tam": "Jeral, her eyes uplifted." } }
-{ "translation": { "en": "They made the book available for anyone who wanted it.", "tam": "Temba. His arms wide." } }
-{ "translation": { "en": "She struggled to understand what to do.", "tam": "Shaieen, in darkness." } }
-{ "translation": { "en": "The child stopped crying and smiled.", "tam": "Callimas at Bahar." } }
-{ "translation": { "en": "His injury was incurable.", "tam": "Kiazi's children, their faces wet." } }
-{ "translation": { "en": "", "tam": "Klemar. When it rises." } }
-{ "translation": { "en": "It happened out of the blue.", "tam": "Pirakee, the sun blinding." } }
-{ "translation": { "en": "She was doing better after the treatment.", "tam": "Callimas at Bahar." } }
-{ "translation": { "en": "The mediator worked to arbitrate their disagreement.", "tam": "Raj and Jiri at Lungha" } }
-{ "translation": { "en": "They uncovered the object.", "tam": "Pirakee, with clouds parted." } }
-{ "translation": { "en": "They represented each of their governments interests at the bargaining table.", "tam": "Raj and Jiri at Lungha" } }
-{ "translation": { "en": "They verified it.", "tam": "Kinla, at court." } }
-{ "translation": { "en": "He decided to no longer continue his job.", "tam": "The River Temarc. In winter." } }
-{ "translation": { "en": "She made it visible.", "tam": "Pirakee, with clouds parted." } }
-{ "translation": { "en": "The child got cheered up.", "tam": "Jeral, her eyes uplifted." } }
-{ "translation": { "en": "She knew the next action to be taken.", "tam": "Shaieen, the wind rising." } }
-{ "translation": { "en": "They had had an arduous voyage.", "tam": "Chatha, her journey long." } }
-{ "translation": { "en": "They stormed the party.", "tam": "Uzani. His army. With fist closed." } }
-{ "translation": { "en": "He helped advance their cause.", "tam": "Tama, filled with mercy." } }
-{ "translation": { "en": "", "tam": "Glenarat, his hands empty." } }
-{ "translation": { "en": "By appearing more vulnerable, they encoraged the other army to attack.", "tam": "Uzani. His army at Lashmir. With fist open." } }
-{ "translation": { "en": "They were ignorant of any scientific facts or observations.", "tam": "Kiteo. His eyes closed." } }
-{ "translation": { "en": "She refused to help them with their task.", "tam": "Kailash. When it rises." } }
-{ "translation": { "en": "The work was halted until they would decide to continue.", "tam": "The River Temarc. In winter." } }
-{ "translation": { "en": "Development had halted.", "tam": "Ratham, the ocean still" } }
-{ "translation": { "en": "He wondered if they had an appetite.", "tam": "Solotep at midday" } }
-{ "translation": { "en": "", "tam": "Sallana, her pack full." } }
-{ "translation": { "en": "Things were improving.", "tam": "Ratham, the winds fair" } }
-{ "translation": { "en": "She would keep going until it worked, no matter what.", "tam": "Zima at Anzo. Zima and Bakor." } }
-{ "translation": { "en": "They couldn't think where to begin hunting for it.", "tam": "Sokath. In Darkness." } }
-{ "translation": { "en": "The project was proceeding apace.", "tam": "Ratham, the winds fair" } }
-{ "translation": { "en": "Advancement was stalled.", "tam": "Ratham, the ocean still" } }
-{ "translation": { "en": "She suggested he seek shelter in her dwelling.", "tam": "Chatha and Terubim, the fire warm." } }
-{ "translation": { "en": "He decided not to take the bandaid.", "tam": "Temba at rest." } }
-{ "translation": { "en": "Advancement was moving forward.", "tam": "Ratham, the winds fair" } }
-{ "translation": { "en": "The ambassador asked whether they needed food.", "tam": "Solotep at midday" } }
-{ "translation": { "en": "She refused her friend's help.", "tam": "Fendit, refusing the flame." } }
-{ "translation": { "en": "He recognized clearly what he couldn't see before.", "tam": "Sokath. His eyes uncovered." } }
-{ "translation": { "en": "He began to feel more at ease.", "tam": "Callimas at Bahar." } }
-{ "translation": { "en": "He was eating a meal in the evening.", "tam": "Solotop at day's end" } }
 { "translation": { "en": "She asked him to tell her about it.", "tam": "Kira at Bashi." } }
-{ "translation": { "en": "", "tam": "Glenarat, his hands empty." } }
-{ "translation": { "en": "The challenger was known.", "tam": "The beast at Tanagra." } }
-{ "translation": { "en": "The company put up barriers for her request.", "tam": "Kailash. When it rises." } }
-{ "translation": { "en": "The ambasador supported and facilitated the efforts.", "tam": "Tama, filled with mercy." } }
-{ "translation": { "en": "The child figured it out.", "tam": "Sokath. His eyes uncovered." } }
-{ "translation": { "en": "Regardless of their action, the wound still hurt.", "tam": "Kiazi's children, their faces wet." } }
-{ "translation": { "en": "They moved the bricks together so the job would go faster.", "tam": "Darmok and Jilad at Tanagra." } }
-{ "translation": { "en": "The flow of water was iterrupted, and now remained still.", "tam": "The River Temarc. In winter." } }
-{ "translation": { "en": "The narrator told the story in front of the audience.", "tam": "Kira at Bashi." } }
-{ "translation": { "en": "She checked if he needed to eat.", "tam": "Solotep at midday" } }
-{ "translation": { "en": "Their household was offered for rest and comfort.", "tam": "Chatha and Terubim, the fire warm." } }
-{ "translation": { "en": "", "tam": "Klemar. When it rises." } }
-{ "translation": { "en": "He confirmed it.", "tam": "Kinla, at court." } }
-{ "translation": { "en": "", "tam": "Shaieen, in darkness." } }
-{ "translation": { "en": "Work had drained him.", "tam": "Jeral, her arms weary." } }
-{ "translation": { "en": "", "tam": "Solotop at day's end" } }
-{ "translation": { "en": "They begged.", "tam": "Lianna, her arms outstretched." } }
-{ "translation": { "en": "He knew what to do.", "tam": "Shaieen, the wind rising." } }
-{ "translation": { "en": "The council asked for her report.", "tam": "Kira at Bashi." } }
-{ "translation": { "en": "Their exchange was being surveilled.", "tam": "Teema, at Gayara." } }
-{ "translation": { "en": "The temptation caused him to move closer.", "tam": "Uzani. His army at Lashmir. With fist open." } }
-{ "translation": { "en": "After lighting a candle they could see around themselves.", "tam": "Pirakee, with clouds parted." } }
-{ "translation": { "en": "She was definitely getting the hang of it.", "tam": "Sokath. His eyes uncovered." } }
-{ "translation": { "en": "They had identified their competitor.", "tam": "The beast at Tanagra." } }
-{ "translation": { "en": "The road was cleared, making it passable.", "tam": "Kailash. The door opening." } }
-{ "translation": { "en": "The business beseeched their patrons.", "tam": "Lianna, her arms outstretched." } }
-{ "translation": { "en": "They took the offensive.", "tam": "Uzani. His army. With fist closed." } }
-{ "translation": { "en": "She went down the trail, off into the distance.", "tam": "Mirab. His sails unfurled." } }
 { "translation": { "en": "The situation called for dozing off.", "tam": "Jeral at rest." } }
-{ "translation": { "en": "The car ran out of fuel.", "tam": "Glenarat, his hands empty." } }
-{ "translation": { "en": "They shared the work, with her cooking and him doing the dishes.", "tam": "Darmok and Jilad at Tanagra." } }
-{ "translation": { "en": "His arm hurt, and no treatment options were available.", "tam": "Kiazi's children, their faces wet." } }
-{ "translation": { "en": "The adventure had been long.", "tam": "Chatha, her journey long." } }
-{ "translation": { "en": "They had ceased advancing.", "tam": "Ratham, the ocean still" } }
-{ "translation": { "en": "She discovered something surprising.", "tam": "Pirakee, the sun blinding." } }
-{ "translation": { "en": "He held the board, while she hammered it in.", "tam": "Darmok and Jilad at Tanagra." } }
-{ "translation": { "en": "The adventurerers were unsuccessful, and doomed the entire village.", "tam": "Shaka. When the walls fell." } }
-{ "translation": { "en": "The child failed to grasp the advanced topic.", "tam": "Kadir beneath Mo Moteh." } }
+{ "translation": { "en": "They were ignorant of any scientific facts or observations.", "tam": "Kiteo. His eyes closed." } }
+{ "translation": { "en": "They were in physical discomfort.", "tam": "Zinda! His face black. His eyes red." } }
 { "translation": { "en": "They did not seek council.", "tam": "Fendit in silence." } }
-{ "translation": { "en": "The evidence was corroborated.", "tam": "Kinla, at court." } }
-{ "translation": { "en": "He hadn't asked for assistance.", "tam": "Fendit in silence." } }
-{ "translation": { "en": "They asked if the group wished to come inside.", "tam": "Chatha and Terubim, the fire warm." } }
-{ "translation": { "en": "It was unclear where it would be.", "tam": "Sokath. In Darkness." } }
-{ "translation": { "en": "The situation is clear and undeniable.", "tam": "Chenza at court. The court of silence." } }
-{ "translation": { "en": "They assaulted their foe.", "tam": "Uzani. His army. With fist closed." } }
-{ "translation": { "en": "She tried to make him feel better, but it was useless.", "tam": "Kiazi's children, their faces wet." } }
-{ "translation": { "en": "The charm of their decoy was appealed to their enemy.", "tam": "Uzani. His army at Lashmir. With fist open." } }
-{ "translation": { "en": "They overheard the exchange.", "tam": "Teema, at Gayara." } }
+{ "translation": { "en": "A difficult excursion.", "tam": "Chatha, her journey long." } }
+{ "translation": { "en": "One couldn't help wonder if it was unsafe.", "tam": "Cthulia, the flames burning." } }
+{ "translation": { "en": "He confirmed it.", "tam": "Kinla, at court." } }
+{ "translation": { "en": "Hi.", "tam": "Zima, at Anzo." } }
+{ "translation": { "en": "The fatigue was showing.", "tam": "Jeral, her arms weary." } }
 { "translation": { "en": "They were starting to recover.", "tam": "Callimas at Bahar." } }
-{ "translation": { "en": "Development was continuing.", "tam": "Ratham, the winds fair" } }
-{ "translation": { "en": "They decided to stop travelling on this path.", "tam": "The River Temarc. In winter." } }
-{ "translation": { "en": "They were offered refuge.", "tam": "Tama, filled with mercy." } }
-{ "translation": { "en": "", "tam": "Zima, at Anzo." } }
-{ "translation": { "en": "Her council and suggestions reduced his anxiety.", "tam": "Callimas at Bahar." } }
-{ "translation": { "en": "The child described his day.", "tam": "Kira at Bashi." } }
-{ "translation": { "en": "", "tam": "Kira at court, the court filled." } }
-{ "translation": { "en": "He understood the situation was", "tam": "Chenza at court. The court of silence." } }
-{ "translation": { "en": "The test would be difficult.", "tam": "The beast at Tanagra." } }
-{ "translation": { "en": "The child covertly monitored what was said.", "tam": "Teema, at Gayara." } }
-{ "translation": { "en": "They proceeded without seeking advice.", "tam": "Fendit in silence." } }
-{ "translation": { "en": "He asked if they wanted to come into his home.", "tam": "Chatha and Terubim, the fire warm." } }
-{ "translation": { "en": "A new path was open.", "tam": "Klemar. When it rises." } }
-{ "translation": { "en": "Their tactics entrapped their quarry.", "tam": "Uzani. His army at Lashmir. With fist open." } }
-{ "translation": { "en": "The next steps were unknown to him.", "tam": "Shaieen, in darkness." } }
-{ "translation": { "en": "They decided to abruptly stop.", "tam": "The River Temarc. In winter." } }
-{ "translation": { "en": "It helped perk them up.", "tam": "Jeral, her eyes uplifted." } }
-{ "translation": { "en": "The child was happy about it.", "tam": "Hammat dancing." } }
-{ "translation": { "en": "She said no to his offer of food.", "tam": "Temba at rest." } }
-{ "translation": { "en": "Once everyone was ready, they asked for him to begin the story.", "tam": "Kira at Bashi." } }
-{ "translation": { "en": "The key refused to unlock the door.", "tam": "Kailash. When it rises." } }
-{ "translation": { "en": "She inquired if they were starving.", "tam": "Solotep at midday" } }
+{ "translation": { "en": "Did they want food?", "tam": "Solotep at midday" } }
+{ "translation": { "en": "He was released and allowed to continue.", "tam": "Kailash. The door opening." } }
+{ "translation": { "en": "Things had paused.", "tam": "Ratham, the ocean still" } }
+{ "translation": { "en": "His injury was incurable.", "tam": "Kiazi's children, their faces wet." } }
+{ "translation": { "en": "The mediator worked to arbitrate their disagreement.", "tam": "Raj and Jiri at Lungha" } }
+{ "translation": { "en": "She told him about her experiences.", "tam": "Kira at Bashi." } }
+{ "translation": { "en": "She backed their work.", "tam": "Tama, filled with mercy." } }
+{ "translation": { "en": "They drove the truck across the country.", "tam": "Glenarat of Miwandi." } }
+{ "translation": { "en": "They were sore all over.", "tam": "Zinda! His face black. His eyes red." } }
+{ "translation": { "en": "An invitation was extended to come inside and rest.", "tam": "Chatha and Terubim, the fire warm." } }
+{ "translation": { "en": "He knew what to do.", "tam": "Shaieen, the wind rising." } }
+{ "translation": { "en": "The project was proceeding apace.", "tam": "Ratham, the winds fair" } }
+{ "translation": { "en": "The results were beyond reproach.", "tam": "Chenza at court. The court of silence." } }
+{ "translation": { "en": "The pipe burst, causing a flood.", "tam": "Shaka. When the walls fell." } }
+{ "translation": { "en": "The child created a schedule.", "tam": "Shaieen, the wind rising." } }
+{ "translation": { "en": "They asked if the group wished to come inside.", "tam": "Chatha and Terubim, the fire warm." } }
+{ "translation": { "en": "Advancement was stalled.", "tam": "Ratham, the ocean still" } }
+{ "translation": { "en": "They decided to stop traveling on this path.", "tam": "The River Temarc. In winter." } }
+{ "translation": { "en": "They asked if she wanted accomodation.", "tam": "Chatha and Terubim, the fire warm." } }
+{ "translation": { "en": "The business beseeched their patrons.", "tam": "Lianna, her arms outstretched." } }
+{ "translation": { "en": "He liked it.", "tam": "Hammat dancing." } }
+{ "translation": { "en": "The ride was draining.", "tam": "Chatha, her journey long." } }
+{ "translation": { "en": "Her headache was causing anguish.", "tam": "Zinda! His face black. His eyes red." } }
+{ "translation": { "en": "Their easy working relationship made their task work out better than expected.", "tam": "Darmok and Jilad at Tanagra." } }
+{ "translation": { "en": "The machine malfunctioned, causing quite a bit of damage.", "tam": "Shaka. When the walls fell." } }
+{ "translation": { "en": "He snooped on their chat.", "tam": "Teema, at Gayara." } }
+{ "translation": { "en": "The two parties had difficulty communicating.", "tam": "Shaka. When the walls fell." } }
+{ "translation": { "en": "They stormed the party.", "tam": "Uzani. His army. With fist closed." } }
+{ "translation": { "en": "She didn't know, but should have.", "tam": "Kiteo. His eyes closed." } }
+{ "translation": { "en": "He lit the match, but it fizzled out before it could be used.", "tam": "Shaka. When the walls fell." } }
+{ "translation": { "en": "The business bustled with activity.", "tam": "Sallana, her pack full." } }
+{ "translation": { "en": "They wouldn't stop requesting it.", "tam": "Lianna, her arms outstretched." } }
+{ "translation": { "en": "Work had drained him.", "tam": "Jeral, her arms weary." } }
+{ "translation": { "en": "They engaged the army.", "tam": "Uzani. His army. With fist closed." } }
+{ "translation": { "en": "She refused to help them with their task.", "tam": "Kailash. When it rises." } }
+{ "translation": { "en": "He was eating a meal in the evening.", "tam": "Solotop at day's end" } }
+{ "translation": { "en": "Things had taken further steps.", "tam": "Ratham, the winds fair" } }
+{ "translation": { "en": "They rushed him.", "tam": "Uzani. His army. With fist closed." } }
+{ "translation": { "en": "She suggested he seek shelter in her dwelling.", "tam": "Chatha and Terubim, the fire warm." } }
+{ "translation": { "en": "He hadn't wanted to be taught.", "tam": "Kiteo. His eyes closed." } }
+{ "translation": { "en": "The child didn't want to go to listen to their lessons anymore.", "tam": "Kiteo. His eyes closed." } }
+{ "translation": { "en": "The business completely missed the customer's point.", "tam": "Kadir beneath Mo Moteh." } }
+{ "translation": { "en": "They were happier.", "tam": "Jeral, her eyes uplifted." } }
+{ "translation": { "en": "He wasn't sure where to find it.", "tam": "Sokath. In Darkness." } }
+{ "translation": { "en": "She knew nothing she could do would make it better.", "tam": "Kiazi's children, their faces wet." } }
+{ "translation": { "en": "They did not comprehend.", "tam": "Kadir beneath Mo Moteh." } }
+{ "translation": { "en": "She asked him to read her the story.", "tam": "Kira at Bashi." } }
+{ "translation": { "en": "Her duty as a physician was clear.", "tam": "Lemross, his buren heavy." } }
+{ "translation": { "en": "The car ran out of fuel.", "tam": "Glenarat, his hands empty." } }
+{ "translation": { "en": "He didn't want to take the blanket.", "tam": "Temba at rest." } }
+{ "translation": { "en": "Doing the job was difficult, but it needed to be done.", "tam": "Lemross, his buren heavy." } }
+{ "translation": { "en": "The child got cheered up.", "tam": "Jeral, her eyes uplifted." } }
+{ "translation": { "en": "He hadn't tried to learn the knowledge he needed.", "tam": "Kiteo. His eyes closed." } }
+{ "translation": { "en": "He recognized clearly what he couldn't see before.", "tam": "Sokath. His eyes uncovered." } }
+{ "translation": { "en": "She thought they might be in jeopardy.", "tam": "Cthulia, the flames burning." } }
+{ "translation": { "en": "She checked if he needed to eat.", "tam": "Solotep at midday" } }
+{ "translation": { "en": "There was nothing that could be done to help him.", "tam": "Kiazi's children, their faces wet." } }
+{ "translation": { "en": "He didn't take his mentor's guidance.", "tam": "Fendit, refusing the flame." } }
+{ "translation": { "en": "He didn't heed her instructions.", "tam": "Fendit, refusing the flame." } }
+{ "translation": { "en": "The flow of water was interrupted, and now remained still.", "tam": "The River Temarc. In winter." } }
+{ "translation": { "en": "Excruciating pain and soreness was experienced by the person.", "tam": "Zinda! His face black. His eyes red." } }
+{ "translation": { "en": "They ignored the advice they were given.", "tam": "Fendit, refusing the flame." } }
+{ "translation": { "en": "She forbid him to continue on this path.", "tam": "The River Temarc. In winter." } }
 { "translation": { "en": "They had a lot to do.", "tam": "Sallana, her pack full." } }
 { "translation": { "en": "He wondered if they were in jeopardy.", "tam": "Cthulia, the flames burning." } }
-{ "translation": { "en": "He desired their report to begin.", "tam": "Kira at court, the court filled." } }
-{ "translation": { "en": "The ambasador worked hard to broker a deal between everyone involved.", "tam": "Raj and Jiri at Lungha" } }
-{ "translation": { "en": "They were sore all over.", "tam": "Zinda! His face black. His eyes red." } }
+{ "translation": { "en": "What they saw was shocking.", "tam": "Pirakee, the sun blinding." } }
+{ "translation": { "en": "She was relieved.", "tam": "Jeral, her eyes uplifted." } }
+{ "translation": { "en": "The light allowed them to observe it.", "tam": "Pirakee, with clouds parted." } }
+{ "translation": { "en": "The child aided her friend.", "tam": "Tama, filled with mercy." } }
+{ "translation": { "en": "They proceeded without seeking advice.", "tam": "Fendit in silence." } }
+{ "translation": { "en": "They suddenly realized what had eluded them.", "tam": "Sokath. His eyes uncovered." } }
+{ "translation": { "en": "Everything was known, and no additional facts could change the situation.", "tam": "Chenza at court. The court of silence." } }
+{ "translation": { "en": "He is tired.", "tam": "Jeral, her arms weary." } }
+{ "translation": { "en": "The child covertly monitored what was said.", "tam": "Teema, at Gayara." } }
+{ "translation": { "en": "Salutations.", "tam": "Zima, at Anzo." } }
+{ "translation": { "en": "He understood the situation was", "tam": "Chenza at court. The court of silence." } }
+{ "translation": { "en": "Exhaustion had overcome the child.", "tam": "Jeral, her arms weary." } }
+{ "translation": { "en": "They didn't use the council he had given.", "tam": "Fendit, refusing the flame." } }
+{ "translation": { "en": "The socket was covered, preventing the plug from going in.", "tam": "Kailash. When it rises." } }
+{ "translation": { "en": "The business intercepted their conversation.", "tam": "Teema, at Gayara." } }
+{ "translation": { "en": "He checked if it was time to prepare a meal.", "tam": "Solotep at midday" } }
+{ "translation": { "en": "After changing their methods, they started on a new trajectory.", "tam": "Mirab. His sails unfurled." } }
+{ "translation": { "en": "He lifted the veil off it.", "tam": "Pirakee, with clouds parted." } }
+{ "translation": { "en": "She was completely worn out.", "tam": "Jeral, her arms weary." } }
+{ "translation": { "en": "He asked them to explain it.", "tam": "Kira at Bashi." } }
+{ "translation": { "en": "She made it visible.", "tam": "Pirakee, with clouds parted." } }
+{ "translation": { "en": "The company put up barriers for her request.", "tam": "Kailash. When it rises." } }
+{ "translation": { "en": "They decided to abruptly stop.", "tam": "The River Temarc. In winter." } }
 { "translation": { "en": "They discovered the way forward.", "tam": "Shaieen, the wind rising." } }
-{ "translation": { "en": "She reveled in it.", "tam": "Hammat dancing." } }
-{ "translation": { "en": "They asked if she wanted accomodation.", "tam": "Chatha and Terubim, the fire warm." } }
-{ "translation": { "en": "She never realized what they were working to convey.", "tam": "Kadir beneath Mo Moteh." } }
-{ "translation": { "en": "He'd learned a new skill.", "tam": "Sokath. His eyes uncovered." } }
-{ "translation": { "en": "He didn't heed her instructions.", "tam": "Fendit, refusing the flame." } }
-{ "translation": { "en": "", "tam": "Kinla, at court." } }
-{ "translation": { "en": "", "tam": "Sokath. In Darkness." } }
-{ "translation": { "en": "They did not comprehend.", "tam": "Kadir beneath Mo Moteh." } }
-{ "translation": { "en": "The truck broke down.", "tam": "Glenarat, his hands empty." } }
-{ "translation": { "en": "", "tam": "Shaieen, in darkness." } }
-{ "translation": { "en": "Something the child obscured was discovered.", "tam": "Kailash. The door opening." } }
-{ "translation": { "en": "Their adversary was before them.", "tam": "The beast at Tanagra." } }
-{ "translation": { "en": "Eventually they were able to get the idea behind it.", "tam": "Sokath. His eyes uncovered." } }
-{ "translation": { "en": "It filled them with delight.", "tam": "Hammat dancing." } }
-{ "translation": { "en": "He tackled the enemy.", "tam": "Uzani. His army. With fist closed." } }
-{ "translation": { "en": "He hadn't tried to learn the knowledge he needed.", "tam": "Kiteo. His eyes closed." } }
-{ "translation": { "en": "They continued their task, undeterred from their past failures.", "tam": "Zima at Anzo. Zima and Bakor." } }
-{ "translation": { "en": "They switched from hindering his efforts to helping them.", "tam": "Kailash. The door opening." } }
-{ "translation": { "en": "The circumstances appeared grave.", "tam": "Cthulia, the flames burning." } }
-{ "translation": { "en": "What they saw was unanticipated.", "tam": "Pirakee, the sun blinding." } }
-{ "translation": { "en": "She forbid him to continue on this path.", "tam": "The River Temarc. In winter." } }
-{ "translation": { "en": "The professional responsibilities of someone in her position were understood.", "tam": "Lemross, his buren heavy." } }
+{ "translation": { "en": "They told their neighbours to feel free to take some firewood.", "tam": "Temba. His arms wide." } }
+{ "translation": { "en": "This was their problem to resolve.", "tam": "The beast at Tanagra." } }
+{ "translation": { "en": "She felt better.", "tam": "Jeral, her eyes uplifted." } }
+{ "translation": { "en": "They were offered refuge.", "tam": "Tama, filled with mercy." } }
 { "translation": { "en": "Rocks covered the road, making it unpassable.", "tam": "Kailash. When it rises." } }
-{ "translation": { "en": "He snooped on their chat.", "tam": "Teema, at Gayara." } }
+{ "translation": { "en": "Things had not improved.", "tam": "Ratham, the ocean still" } }
+{ "translation": { "en": "They didn't know where to seek it out.", "tam": "Sokath. In Darkness." } }
+{ "translation": { "en": "Did they want a meal.", "tam": "Solotep at midday" } }
+{ "translation": { "en": "He looked cold, so she offered him a blanket.", "tam": "Temba. His arms wide." } }
+{ "translation": { "en": "He wondered if they had an appetite.", "tam": "Solotep at midday" } }
+{ "translation": { "en": "Her excursion had been wearying.", "tam": "Chatha, her journey long." } }
+{ "translation": { "en": "The business was now able to explain what happened.", "tam": "Sokath. His eyes uncovered." } }
+{ "translation": { "en": "They wanted to snooze.", "tam": "Jeral at rest." } }
+{ "translation": { "en": "He had sustained trauma.", "tam": "Zinda! His face black. His eyes red." } }
+{ "translation": { "en": "The governments had a cooperative agreement and mutually beneficial relationship.", "tam": "Darmok and Jilad at Tanagra." } }
+{ "translation": { "en": "He pleaded for it.", "tam": "Lianna, her arms outstretched." } }
+{ "translation": { "en": "He appreciated it.", "tam": "Hammat dancing." } }
+{ "translation": { "en": "Instruction hadn't been given.", "tam": "Fendit in silence." } }
+{ "translation": { "en": "They didn't seem to be able to fathom it.", "tam": "Kadir beneath Mo Moteh." } }
+{ "translation": { "en": "He desired their report to begin.", "tam": "Kira at court, the court filled." } }
+{ "translation": { "en": "The child kept trying.", "tam": "Zima at Anzo. Zima and Bakor." } }
+{ "translation": { "en": "It filled them with delight.", "tam": "Hammat dancing." } }
+{ "translation": { "en": "No treatment was available for her illness.", "tam": "Kiazi's children, their faces wet." } }
+{ "translation": { "en": "They repeatedly petitioned for it.", "tam": "Lianna, her arms outstretched." } }
+{ "translation": { "en": "She assisted the group.", "tam": "Tama, filled with mercy." } }
+{ "translation": { "en": "The child hurt from their fall.", "tam": "Zinda! His face black. His eyes red." } }
+{ "translation": { "en": "She dismissed the information in the guide.", "tam": "Fendit, refusing the flame." } }
+{ "translation": { "en": "She went down the trail, off into the distance.", "tam": "Mirab. His sails unfurled." } }
+{ "translation": { "en": "He held the board, while she hammered it in.", "tam": "Darmok and Jilad at Tanagra." } }
+{ "translation": { "en": "Guidance wasn't sought.", "tam": "Fendit in silence." } }
+{ "translation": { "en": "They uncovered the object.", "tam": "Pirakee, with clouds parted." } }
+{ "translation": { "en": "The child stopped crying and smiled.", "tam": "Callimas at Bahar." } }
+{ "translation": { "en": "The audience was ready for the story to start.", "tam": "Kira at court, the court filled." } }
+{ "translation": { "en": "She hadn't looked at the guide yet.", "tam": "Fendit in silence." } }
+{ "translation": { "en": "Their effort was stuck.", "tam": "Ratham, the ocean still" } }
+{ "translation": { "en": "She reveled in it.", "tam": "Hammat dancing." } }
+{ "translation": { "en": "He decided to no longer continue his job.", "tam": "The River Temarc. In winter." } }
+{ "translation": { "en": "It was unclear where it would be.", "tam": "Sokath. In Darkness." } }
+{ "translation": { "en": "They were unsure where to search for the object.", "tam": "Sokath. In Darkness." } }
+{ "translation": { "en": "It was an abrupt discovery.", "tam": "Pirakee, the sun blinding." } }
+{ "translation": { "en": "The work was halted until they would decide to continue.", "tam": "The River Temarc. In winter." } }
+{ "translation": { "en": "The adventure had been long.", "tam": "Chatha, her journey long." } }
+{ "translation": { "en": "The opposing army was their foe.", "tam": "The beast at Tanagra." } }
+{ "translation": { "en": "The gardener offered seeds to anyone who wanted them.", "tam": "Temba. His arms wide." } }
+{ "translation": { "en": "The professional responsibilities of someone in her position were understood.", "tam": "Lemross, his buren heavy." } }
+{ "translation": { "en": "They assaulted their foe.", "tam": "Uzani. His army. With fist closed." } }
+{ "translation": { "en": "The condition they found themselves in was unambiguous.", "tam": "Chenza at court. The court of silence." } }
+{ "translation": { "en": "She relentlessly tried to solve the problem, undeterred by failure.", "tam": "Zima at Anzo. Zima and Bakor." } }
+{ "translation": { "en": "He asked if they wanted to come into his home.", "tam": "Chatha and Terubim, the fire warm." } }
+{ "translation": { "en": "It became illuminated.", "tam": "Pirakee, with clouds parted." } }
+{ "translation": { "en": "It was positive.", "tam": "Hammat dancing." } }
+{ "translation": { "en": "He wanted to fall asleep quickly.", "tam": "Jeral at rest." } }
+{ "translation": { "en": "The plane needed a pilot, and that was her.", "tam": "Glenarat of Miwandi." } }
+{ "translation": { "en": "She feared they might get hurt.", "tam": "Cthulia, the flames burning." } }
+{ "translation": { "en": "She struggled to understand what to do.", "tam": "Shaieen, in darkness." } }
+{ "translation": { "en": "They made their strategy.", "tam": "Shaieen, the wind rising." } }
+{ "translation": { "en": "They stopped worrying once the task was completed.", "tam": "Callimas at Bahar." } }
+{ "translation": { "en": "The adventurers were unsuccessful, and doomed the entire village.", "tam": "Shaka. When the walls fell." } }
+{ "translation": { "en": "There might be terrible peril.", "tam": "Cthulia, the flames burning." } }
+{ "translation": { "en": "He hadn't asked for assistance.", "tam": "Fendit in silence." } }
+{ "translation": { "en": "They worked to bring the other party into their trap.", "tam": "Uzani. His army at Lashmir. With fist open." } }
+{ "translation": { "en": "He couldn't appreciate what they were trying to say.", "tam": "Kadir beneath Mo Moteh." } }
+{ "translation": { "en": "Development had halted.", "tam": "Ratham, the ocean still" } }
+{ "translation": { "en": "They were exhausted.", "tam": "Jeral, her arms weary." } }
+{ "translation": { "en": "A child started pedaling her bike.", "tam": "Glenarat of Miwandi." } }
+{ "translation": { "en": "No queries had been made.", "tam": "Fendit in silence." } }
+{ "translation": { "en": "The ambassador worked hard to broker a deal between everyone involved.", "tam": "Raj and Jiri at Lungha" } }
+{ "translation": { "en": "They checked if he was hungry.", "tam": "Solotep at midday" } }
+{ "translation": { "en": "The test would be difficult.", "tam": "The beast at Tanagra." } }
+{ "translation": { "en": "Their adversary was before them.", "tam": "The beast at Tanagra." } }
+{ "translation": { "en": "They left the city.", "tam": "Mirab. His sails unfurled." } }
+{ "translation": { "en": "He hopped in the car and started driving.", "tam": "Glenarat of Miwandi." } }
+{ "translation": { "en": "She didn't anticipate observing it.", "tam": "Pirakee, the sun blinding." } }
+{ "translation": { "en": "They haggled back and forth for some time on a price.", "tam": "Raj and Jiri at Lungha" } }
+{ "translation": { "en": "He supported her.", "tam": "Tama, filled with mercy." } }
+{ "translation": { "en": "Their tactics entrapped their quarry.", "tam": "Uzani. His army at Lashmir. With fist open." } }
+{ "translation": { "en": "It could now be seen.", "tam": "Pirakee, with clouds parted." } }
+{ "translation": { "en": "The ambassador asked whether they needed food.", "tam": "Solotep at midday" } }
+{ "translation": { "en": "The narrator told the story in front of the audience.", "tam": "Kira at Bashi." } }
+{ "translation": { "en": "His skills were inadequate, causing the task to be incomplete.", "tam": "Shaka. When the walls fell." } }
+{ "translation": { "en": "The truck broke down.", "tam": "Glenarat, his hands empty." } }
+{ "translation": { "en": "They made the book available for anyone who wanted it.", "tam": "Temba. His arms wide." } }
+{ "translation": { "en": "She was extremely occupied with work.", "tam": "Sallana, her pack full." } }
+{ "translation": { "en": "The challenger was known.", "tam": "The beast at Tanagra." } }
+{ "translation": { "en": "Good day.", "tam": "Zima, at Anzo." } }
+{ "translation": { "en": "The mother drove the RV.", "tam": "Glenarat of Miwandi." } }
+{ "translation": { "en": "She had a great deal of responsibility to make sure it would be finished, no matter how hard it got.", "tam": "Lemross, his buren heavy." } }
+{ "translation": { "en": "The evidence was corroborated.", "tam": "Kinla, at court." } }
+{ "translation": { "en": "It happened out of the blue.", "tam": "Pirakee, the sun blinding." } }
+{ "translation": { "en": "He walked out the door.", "tam": "Mirab. His sails unfurled." } }
+{ "translation": { "en": "They compelled him not to do it.", "tam": "Kailash. When it rises." } }
+{ "translation": { "en": "She was doing better after the treatment.", "tam": "Callimas at Bahar." } }
+{ "translation": { "en": "The charm of their decoy was appealed to their enemy.", "tam": "Uzani. His army at Lashmir. With fist open." } }
+{ "translation": { "en": "They switched from hindering his efforts to helping them.", "tam": "Kailash. The door opening." } }
+{ "translation": { "en": "The road was cleared, making it passable.", "tam": "Kailash. The door opening." } }
+{ "translation": { "en": "It was clear what his next action should be.", "tam": "Shaieen, the wind rising." } }
+{ "translation": { "en": "He asked if she wanted some of her sandwich.", "tam": "Temba. His arms wide." } }
+{ "translation": { "en": "Once everyone was ready, they asked for him to begin the story.", "tam": "Kira at Bashi." } }
+{ "translation": { "en": "An alternative was now accessible.", "tam": "Klemar. When it rises." } }
+{ "translation": { "en": "The child figured it out.", "tam": "Sokath. His eyes uncovered." } }
+{ "translation": { "en": "The talks for creating a climate agreement were ongoing today.", "tam": "Raj and Jiri at Lungha" } }
+{ "translation": { "en": "It was time to let go, so she disembarked.", "tam": "Mirab. His sails unfurled." } }
+{ "translation": { "en": "She said no to his offer of food.", "tam": "Temba at rest." } }
+{ "translation": { "en": "The beast was their enemy.", "tam": "The beast at Tanagra." } }
+{ "translation": { "en": "They stood in the open to attract their foe.", "tam": "Uzani. His army at Lashmir. With fist open." } }
+{ "translation": { "en": "It was bedtime.", "tam": "Jeral at rest." } }
+{ "translation": { "en": "She said she was not interested in the offer of tea.", "tam": "Temba at rest." } }
+{ "translation": { "en": "He told his friend that he didn't want the book right now.", "tam": "Temba at rest." } }
+{ "translation": { "en": "They had ceased advancing.", "tam": "Ratham, the ocean still" } }
+{ "translation": { "en": "It wasn't obvious what she should do next.", "tam": "Shaieen, in darkness." } }
+{ "translation": { "en": "Advancement was moving forward.", "tam": "Ratham, the winds fair" } }
+{ "translation": { "en": "Their exchange was being surveilled.", "tam": "Teema, at Gayara." } }
+{ "translation": { "en": "They had their evening meal.", "tam": "Solotop at day's end" } }
+{ "translation": { "en": "The business intentionally refused to examine a possibility.", "tam": "Kiteo. His eyes closed." } }
+{ "translation": { "en": "They were beginning to recuperate.", "tam": "Callimas at Bahar." } }
+{ "translation": { "en": "She knew the next action to be taken.", "tam": "Shaieen, the wind rising." } }
+{ "translation": { "en": "They had a plan of action.", "tam": "Shaieen, the wind rising." } }
+{ "translation": { "en": "In spite of being sick, she still had to go in to work or no one would be able to open the store.", "tam": "Lemross, his buren heavy." } }
+{ "translation": { "en": "They provided him with assistance.", "tam": "Tama, filled with mercy." } }
+{ "translation": { "en": "Their trek had seemed to last forever.", "tam": "Chatha, her journey long." } }
+{ "translation": { "en": "What they saw was unanticipated.", "tam": "Pirakee, the sun blinding." } }
+{ "translation": { "en": "They had to recuperate.", "tam": "Jeral at rest." } }
+{ "translation": { "en": "Her outing was exhausting.", "tam": "Chatha, her journey long." } }
+{ "translation": { "en": "The child implored their parent.", "tam": "Lianna, her arms outstretched." } }
+{ "translation": { "en": "The obstruction was removed.", "tam": "Kailash. The door opening." } }
+{ "translation": { "en": "The hood was taken off, and the person was now visible.", "tam": "Pirakee, with clouds parted." } }
+{ "translation": { "en": "The council asked for her report.", "tam": "Kira at Bashi." } }
+{ "translation": { "en": "She pointed to the kettle and asked if anyone wanted some tea.", "tam": "Temba. His arms wide." } }
+{ "translation": { "en": "She decided she knew better, and discarded the advice that had been given.", "tam": "Fendit, refusing the flame." } }
+{ "translation": { "en": "By appearing more vulnerable, they encouraged the other army to attack.", "tam": "Uzani. His army at Lashmir. With fist open." } }
+{ "translation": { "en": "No matter how hard they tried, he just couldn't seem to get the picture.", "tam": "Kadir beneath Mo Moteh." } }
+{ "translation": { "en": "She offered their hospitality.", "tam": "Chatha and Terubim, the fire warm." } }
+{ "translation": { "en": "The child hadn't inquired.", "tam": "Fendit in silence." } }
+{ "translation": { "en": "They preferred being uneducated on the topic.", "tam": "Kiteo. His eyes closed." } }
+{ "translation": { "en": "They verified it.", "tam": "Kinla, at court." } }
+{ "translation": { "en": "The child couldn't have predicted this unforeseen circumstance.", "tam": "Pirakee, the sun blinding." } }
+{ "translation": { "en": "That made him feel a great affection.", "tam": "Hammat dancing." } }
+{ "translation": { "en": "Their mood was lightened.", "tam": "Jeral, her eyes uplifted." } }
+{ "translation": { "en": "She discovered something surprising.", "tam": "Pirakee, the sun blinding." } }
+{ "translation": { "en": "She charged her quarry.", "tam": "Uzani. His army. With fist closed." } }
+{ "translation": { "en": "The neighbours refused the offer of firewood.", "tam": "Temba at rest." } }
+{ "translation": { "en": "They continued their task, undeterred from their past failures.", "tam": "Zima at Anzo. Zima and Bakor." } }
+{ "translation": { "en": "It is a pleasure to meet you.", "tam": "Zima, at Anzo." } }
+{ "translation": { "en": "The next steps were unknown to him.", "tam": "Shaieen, in darkness." } }
+{ "translation": { "en": "After being told, she suddenly realized what she'd misunderstood.", "tam": "Sokath. His eyes uncovered." } }
+{ "translation": { "en": "The two groups worked for some time to find a mutually acceptable deal that both sides would benefit from.", "tam": "Raj and Jiri at Lungha" } }
+{ "translation": { "en": "He cheered up after their talk.", "tam": "Callimas at Bahar." } }
+{ "translation": { "en": "Eventually they were able to get the idea behind it.", "tam": "Sokath. His eyes uncovered." } }
+{ "translation": { "en": "She quit her job and started a different job.", "tam": "Mirab. His sails unfurled." } }
+{ "translation": { "en": "The situation is clear and undeniable.", "tam": "Chenza at court. The court of silence." } }
+{ "translation": { "en": "Things were improving.", "tam": "Ratham, the winds fair" } }
+{ "translation": { "en": "Everything known was indisputable.", "tam": "Chenza at court. The court of silence." } }
+{ "translation": { "en": "They overheard the exchange.", "tam": "Teema, at Gayara." } }
+{ "translation": { "en": "They didn't want to familiarize themselves with the situation.", "tam": "Kiteo. His eyes closed." } }
+{ "translation": { "en": "Her council and suggestions reduced his anxiety.", "tam": "Callimas at Bahar." } }
+{ "translation": { "en": "It made them happy.", "tam": "Hammat dancing." } }
+{ "translation": { "en": "The project was stationary.", "tam": "Ratham, the ocean still" } }
+{ "translation": { "en": "Their friend was unhelpful but now was helpful.", "tam": "Kailash. The door opening." } }
+{ "translation": { "en": "It brightened their day.", "tam": "Jeral, her eyes uplifted." } }
+{ "translation": { "en": "A new option was available to them.", "tam": "Klemar. When it rises." } }
+{ "translation": { "en": "He intentionally eavesdropped on what was said.", "tam": "Teema, at Gayara." } }
+{ "translation": { "en": "They were becoming quite weary.", "tam": "Jeral, her arms weary." } }
+{ "translation": { "en": "She steered the submarine in the ocean.", "tam": "Glenarat of Miwandi." } }
+{ "translation": { "en": "He'd learned a new skill.", "tam": "Sokath. His eyes uncovered." } }
+{ "translation": { "en": "They talked for hours to try and resolve the disagreement.", "tam": "Raj and Jiri at Lungha" } }
+{ "translation": { "en": "She was spent at the end of the day.", "tam": "Jeral, her arms weary." } }
+{ "translation": { "en": "The computer had halted it's execution.", "tam": "The River Temarc. In winter." } }
+{ "translation": { "en": "She strongly appealed for something.", "tam": "Lianna, her arms outstretched." } }
+{ "translation": { "en": "He repeatedly made attempts to complete the task.", "tam": "Zima at Anzo. Zima and Bakor." } }
+{ "translation": { "en": "Their household was offered for rest and comfort.", "tam": "Chatha and Terubim, the fire warm." } }
+{ "translation": { "en": "Her task was challenging.", "tam": "The beast at Tanagra." } }
+{ "translation": { "en": "The child hid something so their friend wouldn't find it.", "tam": "Kailash. When it rises." } }
+{ "translation": { "en": "His duty was clear, regardless of the effort required.", "tam": "Lemross, his buren heavy." } }
+{ "translation": { "en": "Even though it was heavy and progress was slow, he kept pushing the crate towards the top of the hill.", "tam": "Zima at Anzo. Zima and Bakor." } }
+{ "translation": { "en": "They knew what needed to be done.", "tam": "Shaieen, the wind rising." } }
+{ "translation": { "en": "It was grovelled for.", "tam": "Lianna, her arms outstretched." } }
+{ "translation": { "en": "She was definitely getting the hang of it.", "tam": "Sokath. His eyes uncovered." } }
+{ "translation": { "en": "She couldn't comprehend what they were trying to tell her.", "tam": "Kadir beneath Mo Moteh." } }
+{ "translation": { "en": "It helped perk them up.", "tam": "Jeral, her eyes uplifted." } }
+{ "translation": { "en": "The telephone had a wiretap.", "tam": "Teema, at Gayara." } }
+{ "translation": { "en": "He asked if they wanted to come in.", "tam": "Chatha and Terubim, the fire warm." } }
+{ "translation": { "en": "They uncovered something unexpected.", "tam": "Pirakee, the sun blinding." } }
+{ "translation": { "en": "She refused her friend's help.", "tam": "Fendit, refusing the flame." } }
+{ "translation": { "en": "She kept working hard to study to increase her grades, in spite of slow progress.", "tam": "Zima at Anzo. Zima and Bakor." } }
+{ "translation": { "en": "He began to feel more at ease.", "tam": "Callimas at Bahar." } }
+{ "translation": { "en": "She rode a motor cycle.", "tam": "Glenarat of Miwandi." } }
+{ "translation": { "en": "His strategy helped ensnare their prey.", "tam": "Uzani. His army at Lashmir. With fist open." } }
+{ "translation": { "en": "The child needed to nap.", "tam": "Jeral at rest." } }
+{ "translation": { "en": "They had had an arduous voyage.", "tam": "Chatha, her journey long." } }
+{ "translation": { "en": "They begged.", "tam": "Lianna, her arms outstretched." } }
+{ "translation": { "en": "The work was advancing.", "tam": "Ratham, the winds fair" } }
+{ "translation": { "en": "It's nice to meet you.", "tam": "Zima, at Anzo." } }
+{ "translation": { "en": "The child was ready to hear the story.", "tam": "Kira at court, the court filled." } }
+{ "translation": { "en": "She would keep going until it worked, no matter what.", "tam": "Zima at Anzo. Zima and Bakor." } }
+{ "translation": { "en": "His illness caused quite a bit of pain.", "tam": "Zinda! His face black. His eyes red." } }
+{ "translation": { "en": "He decided to move on to the next island.", "tam": "Mirab. His sails unfurled." } }
+{ "translation": { "en": "Coming to a compromise was likely the best course of action.", "tam": "Raj and Jiri at Lungha" } }
+{ "translation": { "en": "His determination was obvious as he kept trying.", "tam": "Zima at Anzo. Zima and Bakor." } }
+{ "translation": { "en": "They took the offensive.", "tam": "Uzani. His army. With fist closed." } }
+{ "translation": { "en": "She had eventually succumbed to her illness.", "tam": "Shaka. When the walls fell." } }
+{ "translation": { "en": "The effort was progressing.", "tam": "Ratham, the winds fair" } }
+{ "translation": { "en": "They had identified their competitor.", "tam": "The beast at Tanagra." } }
+{ "translation": { "en": "They represented each of their governments interests at the bargaining table.", "tam": "Raj and Jiri at Lungha" } }
+{ "translation": { "en": "He helped advance their cause.", "tam": "Tama, filled with mercy." } }
+{ "translation": { "en": "The child failed to grasp the advanced topic.", "tam": "Kadir beneath Mo Moteh." } }
+{ "translation": { "en": "The temptation caused him to move closer.", "tam": "Uzani. His army at Lashmir. With fist open." } }
+{ "translation": { "en": "Though their relationship was strained, they still had to do the task.", "tam": "Lemross, his buren heavy." } }
+{ "translation": { "en": "They offered greetings.", "tam": "Zima, at Anzo." } }
+{ "translation": { "en": "She needed sleep.", "tam": "Jeral at rest." } }
+{ "translation": { "en": "The door was unlocked.", "tam": "Kailash. The door opening." } }
+{ "translation": { "en": "She tried to make him feel better, but it was useless.", "tam": "Kiazi's children, their faces wet." } }
+{ "translation": { "en": "The manufacturing line was interrupted.", "tam": "The River Temarc. In winter." } }
+{ "translation": { "en": "He decided not to take the bandaid.", "tam": "Temba at rest." } }
+{ "translation": { "en": "They struck their adversary.", "tam": "Uzani. His army. With fist closed." } }
+{ "translation": { "en": "What she learned was impossible to deny.", "tam": "Chenza at court. The court of silence." } }
+{ "translation": { "en": "He had been comforted.", "tam": "Jeral, her eyes uplifted." } }
+{ "translation": { "en": "The situation looked concerning.", "tam": "Cthulia, the flames burning." } }
+{ "translation": { "en": "The evidence was incontrovertible.", "tam": "Chenza at court. The court of silence." } }
+{ "translation": { "en": "The circumstances appeared grave.", "tam": "Cthulia, the flames burning." } }
+{ "translation": { "en": "When they tried together, they were able to lift the heavy rock.", "tam": "Darmok and Jilad at Tanagra." } }
+{ "translation": { "en": "After lighting a candle they could see around themselves.", "tam": "Pirakee, with clouds parted." } }
+{ "translation": { "en": "They offered him a bandage.", "tam": "Temba. His arms wide." } }
+{ "translation": { "en": "The company was giving out free samples to anyone who asked.", "tam": "Temba. His arms wide." } }
+{ "translation": { "en": "She declined the offer of one of the samples.", "tam": "Temba at rest." } }
+{ "translation": { "en": "Development was continuing.", "tam": "Ratham, the winds fair" } }
+{ "translation": { "en": "Getting some shuteye was essential.", "tam": "Jeral at rest." } }
+{ "translation": { "en": "The child didn't follow what their parent said.", "tam": "Fendit, refusing the flame." } }
+{ "translation": { "en": "They shared the work, with her cooking and him doing the dishes.", "tam": "Darmok and Jilad at Tanagra." } }
+{ "translation": { "en": "She wasn't making any headway on the problem.", "tam": "Ratham, the ocean still" } }
+{ "translation": { "en": "With their old plans in ruin, it was time to try their next idea.", "tam": "Mirab. His sails unfurled." } }
+{ "translation": { "en": "Though he lost his job, he still had a family to provide for.", "tam": "Lemross, his buren heavy." } }
+{ "translation": { "en": "He wanted to leave, but they held him back.", "tam": "Kailash. When it rises." } }
+{ "translation": { "en": "The child described his day.", "tam": "Kira at Bashi." } }
+{ "translation": { "en": "She enticed them out of hiding.", "tam": "Uzani. His army at Lashmir. With fist open." } }
+{ "translation": { "en": "The plane wouldn't take off.", "tam": "Glenarat, his hands empty." } }
+{ "translation": { "en": "Something the child obscured was discovered.", "tam": "Kailash. The door opening." } }
+{ "translation": { "en": "His arm had been broken.", "tam": "Zinda! His face black. His eyes red." } }
+{ "translation": { "en": "The journey was tiring.", "tam": "Chatha, her journey long." } }
+{ "translation": { "en": "He tackled the enemy.", "tam": "Uzani. His army. With fist closed." } }
+{ "translation": { "en": "They moved the bricks together so the job would go faster.", "tam": "Darmok and Jilad at Tanagra." } }
+{ "translation": { "en": "Their schedule was packed with activities.", "tam": "Sallana, her pack full." } }
+{ "translation": { "en": "The ambassador supported and facilitated the efforts.", "tam": "Tama, filled with mercy." } }
+{ "translation": { "en": "She inquired if they were starving.", "tam": "Solotep at midday" } }
+{ "translation": { "en": "Knowing they would both be needed, they went together.", "tam": "Darmok and Jilad at Tanagra." } }
+{ "translation": { "en": "They piloted the jet home.", "tam": "Glenarat of Miwandi." } }
+{ "translation": { "en": "The child was happy about it.", "tam": "Hammat dancing." } }
+{ "translation": { "en": "The key refused to unlock the door.", "tam": "Kailash. When it rises." } }
+{ "translation": { "en": "She helped him with the project.", "tam": "Darmok and Jilad at Tanagra." } }
+{ "translation": { "en": "His arm hurt, and no treatment options were available.", "tam": "Kiazi's children, their faces wet." } }
+{ "translation": { "en": "The company began being more cooperative.", "tam": "Kailash. The door opening." } }
+{ "translation": { "en": "She spied on their dialoge.", "tam": "Teema, at Gayara." } }
+{ "translation": { "en": "Nothing seemed to help the pain, regardless of how much he tried.", "tam": "Kiazi's children, their faces wet." } }
+{ "translation": { "en": "She was making headway on the problem.", "tam": "Ratham, the winds fair" } }
+{ "translation": { "en": "The child was concerned about the hazards.", "tam": "Cthulia, the flames burning." } }
+{ "translation": { "en": "The switch was faulty, and did not work.", "tam": "Shaka. When the walls fell." } }
+{ "translation": { "en": "He had supper.", "tam": "Solotop at day's end" } }
+{ "translation": { "en": "Regardless of their action, the wound still hurt.", "tam": "Kiazi's children, their faces wet." } }
+{ "translation": { "en": "A new path was open.", "tam": "Klemar. When it rises." } }
+{ "translation": { "en": "She never realized what they were working to convey.", "tam": "Kadir beneath Mo Moteh." } }
