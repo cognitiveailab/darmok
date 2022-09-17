@@ -42,5 +42,7 @@ Further Reading
 
 ## References
 
+https://www.reddit.com/r/wikipedia/comments/xgmmgm/darmok_is_an_episode_of_the_tv_series_star_trek/
+
 ...
 
